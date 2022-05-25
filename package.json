@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT Photo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Me1onLord/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "irfan yeniceri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Me1onLord/PCAT/issues"
+  },
+  "homepage": "https://github.com/Me1onLord/PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.6.2"
+  }
+}
